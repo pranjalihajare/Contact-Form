@@ -29,7 +29,7 @@ contact-form-validation/
 ## 📷 Screenshots
 Example form preview:
 
-![Contact Form Preview](screenshots/form-preview.png)
+![Contact Form Preview](https://github.com/pranjalihajare/Contact-Form/blob/4185a5dc1c68ca3b719cb58b11e86fab629e0796/Screenshot%20from%202025-09-30%2017-43-42.png)
 
 ## ▶️ How to Run
 1. Clone/download this repository.
